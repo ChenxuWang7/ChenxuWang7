@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChenxuWang7
+- 👋 Hi, I’m Chenxu Wang.
 - 👀 I’m interested in Machine Learning, Computer Vision.
 - 🌱 I’m currently looking for a job.
 - 📫 How to reach me: wchenxu711@gmail.com
