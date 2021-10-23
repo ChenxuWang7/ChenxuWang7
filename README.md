@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chenxu Wang.
-- 👀 I’m interested in Machine Learning, Computer Vision.
+- 👀 I’m interested in Machine Learning, Software Development, and Computer Vision.
 - 🌱 I’m currently looking for a job.
 - 📫 How to reach me: wchenxu711@gmail.com
 
