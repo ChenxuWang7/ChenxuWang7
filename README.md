@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chenxu Wang.
 - 👀 I’m interested in Software Engineering, Machine Learning.
-- 🌱 I’m currently looking for a job.
+- 🌱 I’m open to have a new chanllege.
 - 📫 How to reach me: wchenxu711@gmail.com
 
 <!---
